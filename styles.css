@@ -92,3 +92,119 @@ p {
     display: flex;
     justify-content:center ;
 }
+
+.gradientContainer {
+    display: flex;
+    justify-content: center;
+}
+
+.gradient {
+    height: 800px;
+    width: 100%;
+    background-image:  linear-gradient(90deg, rgba(2,6,54,0.7483368347338936) 22%, rgba(17,55,166,0.7511379551820728) 46%, rgba(101,232,246,0.7511379551820728) 73%), url("./images/raimond-klavins-KvVCDvD1_t0-unsplash.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.cuadrito {
+    width: 150px;
+    height: 150px;
+    background-color: aquamarine;
+    animation-name: my_animation;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+
+}
+
+@keyframes my_animation {
+    0% {
+        background-color: rgb(0, 117, 78) ;
+    }
+    50% {
+        background-color: blue ;
+        transform: translate(200px, -600px) rotate(-180deg) scale(-2);
+    }
+    100% {
+        background-color: rgb(63, 177, 63) ;
+        transform: translate(200px) rotate(45deg) scale(0.5);
+    }
+}
+
+.animation {
+    display: flex;
+    justify-content:center ;
+}
+.running_like_Naruto_Container {
+        position: relative;
+        width: 500px;
+        height: 500px;
+        background-color: rgb(104, 104, 104);
+}
+
+.running_like_Naruto {
+    width: 150px;
+    height: 150px;
+    animation-name: my_animation_Naruto;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+
+}
+
+@keyframes my_animation_Naruto {
+    0% {
+        transform: translate(0) ;
+
+    }
+    25% {
+        transform: translate(350px, 0) ;
+
+    }
+    50% {
+        transform: translate(350px, 350px);
+
+    }
+    75% {
+        transform: translate(0, 350px);
+
+    }
+}
+
+.cuadro1 {
+    margin: 10px 20px 30px 10px;
+    padding: 10px 20px 30px 10px;
+    width: 200px;
+    height: 200px;
+    background-color: rgb(70, 146, 46);
+    border: 2px solid black;
+    box-sizing: border-box;
+}
+
+.cuadro2 {
+    margin: 10px 20px 30px 10px;
+    padding: 10px 20px 30px 10px;
+    width: 200px;
+    height: 200px;
+    background-color: rgb(70, 146, 46);
+    border: 2px solid black;
+    box-sizing: content-box;
+}
+
+.circle {
+    width: 160px;
+    height: 160px;
+    border-radius: 50%;
+    background-color: rgb(16, 139, 98);
+    border: 2px solid black;
+    position: fixed;
+    right: 0;
+    top: 0;
+    box-shadow: 0px 5px 4px 2px black ;
+}
+
+.material-symbols-outlined {
+    position: fixed;
+    font-size: 50px;
+    right: 52px;
+    top: 52px;
+    
+}
