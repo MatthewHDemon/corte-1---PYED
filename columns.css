@@ -1,0 +1,31 @@
+.container {
+    display: flex;
+    background-color: aquamarine;
+    flex-flow: row wrap;
+    justify-content: center;
+    width: 300px;
+    height: 200px;
+    align-content: center;
+    
+}
+
+.item {
+    display: flex;
+    flex-flow: column wrap;
+    height: 50px;
+    width: 50px;
+    border: 2px solid black;
+    text-align: center;
+    align-content: center;
+    justify-content: center;
+}
+
+.item1 {
+    flex: 3;
+}
+.item2 {
+    flex: 3;
+}
+.item3 {
+    flex: 6;
+}

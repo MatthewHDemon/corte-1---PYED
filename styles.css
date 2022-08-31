@@ -1,6 +1,6 @@
 * {
     margin: 0;
-    padding: 0;
+    padding: 5px;
     box-sizing: border-box;
     font-size: 10px;
 } 
@@ -254,5 +254,69 @@ p {
                 fill: rgb(177, 177, 177) ;
             }
     }
+
+#Name {
+    text-align: justify;
+    text-decoration-line:line-through;
+    text-decoration-color: red;
+}
+
+#paragraph {
+    word-spacing: 5px;
+    line-height: 18px;
+    color: #000000;
+    text-shadow: 0 -4px 3px #ff0000, 0 4px 5px #0000ff;
+    font-size: 20px;
+}
+
+#Last_Name {
+    font-style: italic;
+    font-size: 45px;
+    font-weight:900;
+}
+
+
+#list_Countries  {
+    font-size: 30px;
+    padding-left: 50px;
+    list-style-type:upper-alpha;
+}
+#list_Countries li {
+    font-size: 30px;
+
+}
+
+#customers {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+#customers td, #customers th {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+#customers tr:hover {background-color: #ddd;}
+
+#customers tr {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #04AA6D;
+    color: white;
+}
+
+#jugador {
+    color: #0000ff;
+    font-size: large;
+}
+
+.player {
+    color: red ;
+}
+
+h6 {
+    color: yellow;
+}
 
 
