@@ -208,3 +208,51 @@ p {
     top: 52px;
     
 }
+
+#Spinner {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+}
+
+.ovalo  {
+        width: 400px;
+        height: 400px;
+        background: #000000;
+        border-radius: 50%;
+        border: 4px solid rgb(251, 255, 22);
+      }
+
+    .Circle {
+    display: flex;
+    fill: rgb(219, 219, 219);
+    top: 510px;
+    animation-name: rotate;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+}
+
+@keyframes rotate{
+        from {
+            transform: rotate(0deg);
+            color: #000000;
+        }
+        to {
+            transform: rotate(480deg);
+        }
+            0% {
+                fill: rgb(177, 177, 177) ;
+            }
+            50% {
+                fill: rgb(0, 0, 0) ;
+            }
+            75% {
+                fill: rgb(0, 0, 0) ;
+            }
+            100% {
+                fill: rgb(177, 177, 177) ;
+            }
+    }
+
+
