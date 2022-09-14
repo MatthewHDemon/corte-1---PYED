@@ -1,0 +1,9 @@
+.checkBoxContainer {
+    display: flex;
+    flex-direction: column;
+    width: 80px;
+    align-items: center;
+    background-color: rgba(95, 158, 160, 0.5);
+    padding: 10px;
+    border-radius: 4px;
+}
