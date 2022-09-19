@@ -4,10 +4,10 @@ function Validar() {
         console.log(checkBoxP);
         let checkBoxQ=document.getElementById("q").checked;
         console.log(checkBoxQ);
-        let resultado="p AND q es: " + (checkBoxP&&checkBoxQ)+"<br>";
-        resultado=resultado+"q or p es: " + (checkBoxP||checkBoxQ)+"<br>";
-        resultado=resultado+"La negación or p es: " + (!checkBoxP)+"<br>";
-        resultado=resultado+"La negación or q es: " + (!checkBoxQ)+"<br>";
+        let resultado="p y q es: " + (checkBoxP&&checkBoxQ)+"<br>";
+        resultado=resultado+"q o p es: " + (checkBoxP||checkBoxQ)+"<br>";
+        resultado=resultado+"La negación o p es: " + (!checkBoxP)+"<br>";
+        resultado=resultado+"La negación o q es: " + (!checkBoxQ)+"<br>";
         document.getElementById("message").innerHTML=resultado;
     }
 
