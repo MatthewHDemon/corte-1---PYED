@@ -9,14 +9,12 @@
   ],
   "colors_prim": [
     {
-      "color": "white",
-      "color": "blue"
+      "color": ["white", "blue"]
     }
   ],
   "colors_sec": [
     {
-      "color": "white",
-      "color": "blue"
+      "color": ["white", "red"]
     }
   ],
   "won_titles": ["Inglaterra 1966 - Campeón"],
@@ -30,13 +28,11 @@
       "number_of_goals": 4
     }
   ],
-  "stadium": [
-    {
-      "name": "Estadio de Wembley",
-      "location": "London HA9 0WS, Reino Unido",
-      "capacity": 90000
-    }
-  ],
+  "stadium": {
+    "name": "Estadio de Wembley",
+    "location": "London HA9 0WS, Reino Unido",
+    "capacity": 90000
+  },
   "players": [
     {
       "first_name": "Harry",
