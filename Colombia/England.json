@@ -1,0 +1,164 @@
+{
+  "name": "The Football Association",
+  "country_name": "England",
+  "alternative_names": [
+    "The Three Lions",
+    "The Creators",
+    "The Team of the Rose",
+    "The Biggest Nightmare of H"
+  ],
+  "colors_prim": [
+    {
+      "color": "white",
+      "color": "blue"
+    }
+  ],
+  "colors_sec": [
+    {
+      "color": "white",
+      "color": "blue"
+    }
+  ],
+  "won_titles": ["Inglaterra 1966 - Campeón"],
+  "captain_name": "Harry Kane",
+  "coach_name": "Gareth Southgate",
+  "logo_url": "https://1.bp.blogspot.com/-ccbSGUThkGc/YNCxrqtypZI/AAAAAAAAHX4/3L34PaC7DJUrZsymimmYeagHeasajmaagCLcBGAsYHQ/s700/Federacion_Inglesa_de_Futbol.gif",
+  "abbreviation": "FA",
+  "top_scorer": [
+    {
+      "name": "Geoff Hurst",
+      "number_of_goals": 4
+    }
+  ],
+  "stadium": [
+    {
+      "name": "Estadio de Wembley",
+      "location": "London HA9 0WS, Reino Unido",
+      "capacity": 90000
+    }
+  ],
+  "players": [
+    {
+      "first_name": "Harry",
+      "last_name": "Kane",
+      "Image": "http://t2.gstatic.com/licensed-image?q=tbn:ANd9GcTvmxbLWvk-bCARNJ6vesQSrSbXThE2d33eawXYUnaiJi47Oi6fYZekPsIuD3a6C7sg",
+      "age": 29,
+      "height": 1.88,
+      "place_of_birth": "Walthamstow, Reino Unido",
+      "position": "Delantero",
+      "current_club": ["Tottenham Hotspur Football Club"],
+      "shirt_number": 10
+    },
+
+    {
+      "first_name": "Bukayo",
+      "last_name": "Saka",
+      "Image": "https://img.a.transfermarkt.technology/portrait/big/433177-1582630395.jpg?lm=1",
+      "age": 21,
+      "height": 1.78,
+      "place_of_birth": "Municipio de Ealing, Reino Unido",
+      "position": "Cantrocampista",
+      "current_club": ["Arsenal Football Club"],
+      "shirt_number": 7
+    },
+    {
+      "first_name": "Jack",
+      "last_name": "Grealish",
+      "Image": "https://spysports.net/wp-content/uploads/2021/06/Chelsea-detient-un-interet-concret-pour-le-capitaine-dAston-Villa.jpg",
+      "age": 27,
+      "height": 1.75,
+      "place_of_birth": "Birmingham, Reino Unido",
+      "position": "Cantrocampista",
+      "current_club": ["Manchester City Football Club"],
+      "shirt_number": 5
+    },
+    {
+      "first_name": "Harry",
+      "last_name": "Maguire",
+      "Image": "https://assets.manutd.com/AssetPicker/images/0/0/15/66/1000150/Treated_Player_Profile_Thumbnail_Dalot1626356753652_thumb.jpg",
+      "age": 29,
+      "height": 1.94,
+      "place_of_birth": "Sheffield, Reino Unido",
+      "position": "Defensa",
+      "current_club": ["Manchester United Football Club"],
+      "shirt_number": 7
+    },
+    {
+      "first_name": "Mason",
+      "last_name": "Mount",
+      "Image": "http://t2.gstatic.com/licensed-image?q=tbn:ANd9GcSS0NylV_UTJ6Y5LupNvANhcNqDayflDTRJZ3Mus8U71f9DIq6fzYImipAKjy2Bi54k",
+      "age": 23,
+      "height": 1.8,
+      "place_of_birth": "Portsmouth, Reino Unido",
+      "position": "Centrocampista",
+      "current_club": ["Chelsea Football Club"],
+      "shirt_number": 19
+    },
+    {
+      "first_name": "Jarrod",
+      "last_name": "Bowen",
+      "Image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjvWHk_bfOKPkMzIgJwhJ6UBlEobRgdgU06DdV52xZpJ3_CqXrugnHWL2Qkje7S1iyfJA&usqp=CAU",
+      "age": 25,
+      "height": 1.75,
+      "place_of_birth": "Leominster, Reino Unido",
+      "position": "Delantero",
+      "current_club": ["West Ham United Football Club"],
+      "shirt_number": 20
+    },
+    {
+      "first_name": "Phil",
+      "last_name": "Foden",
+      "Image": "http://t1.gstatic.com/licensed-image?q=tbn:ANd9GcTilgjPfR5lwrebNNk020qdCWJ2Qy2HeS-Wa00rjJGblfCwTxbrq_W9tkXf7-koY8Cr",
+      "age": 22,
+      "height": 1.71,
+      "place_of_birth": "Stockport, Reino Unido",
+      "position": "Centrocampista",
+      "current_club": ["Manchester City Football Club"],
+      "shirt_number": 47
+    },
+    {
+      "first_name": "Marc",
+      "last_name": "Guéhi",
+      "Image": "https://cdn.vox-cdn.com/thumbor/J4Wz38eqXjRb2rAkydZZ-6Pkp_g=/0x0:2432x3648/1200x800/filters:focal(937x698:1325x1086)/cdn.vox-cdn.com/uploads/chorus_image/image/70757730/1381111483.0.jpg",
+      "age": 22,
+      "height": 1.83,
+      "place_of_birth": "Abiyán, Costa de Marfil",
+      "position": "Defensa",
+      "current_club": ["Crystal Palace Football Club"],
+      "shirt_number": 6
+    },
+    {
+      "first_name": "Mason",
+      "last_name": "Greenwood",
+      "Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Mason_Greenwood.jpeg/1200px-Mason_Greenwood.jpeg",
+      "age": 20,
+      "height": 1.81,
+      "place_of_birth": "Wibsey, Bradford, Reino Unido",
+      "position": "Delantero",
+      "current_club": ["Selección de fútbol de Inglaterra"],
+      "shirt_number": 11
+    },
+    {
+      "first_name": "Trent",
+      "last_name": "Alexander-Arnold",
+      "Image": "https://img.asmedia.epimg.net/resizer/z8gje5UOupAX2E1v5jDkkYQsErM=/1952x1098/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/T2SADXJROFOLXDYIQJZAK2E2MI.jpg",
+      "age": 23,
+      "height": 1.75,
+      "place_of_birth": "West Derby, Liverpool, Reino Unido",
+      "position": "Defensa",
+      "current_club": ["Liverpool Football Club"],
+      "shirt_number": 66
+    },
+    {
+      "first_name": "Jordan",
+      "last_name": "Pickford",
+      "Image": "https://img.uefa.com/imgml/TP/players/2014/2023/324x324/250024791.jpg",
+      "age": 28,
+      "height": 1.85,
+      "place_of_birth": "Washington, Reino Unido",
+      "position": "Arquero",
+      "current_club": ["Everton Football Club"],
+      "shirt_number": 1
+    }
+  ]
+}
