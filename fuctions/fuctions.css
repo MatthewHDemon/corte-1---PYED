@@ -1,0 +1,8 @@
+#result_container {
+    display: flex;
+    align-items: center;
+}
+
+#imc {
+    padding: 8px;
+}
