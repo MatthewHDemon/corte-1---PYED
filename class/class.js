@@ -66,9 +66,7 @@ let objetosAnimales=[
         peso_promedio:"22 a 215 Kg",
         número_de_patas:"4",
         color_predominante:"Marrón",
-        alimentación: {
-            
-        }
+        alimentación: "37.73% arbustivas, 23.44% gramíneas, 18.26% suculentas, 17.21% arbóreas y 3.35% herbáceas"
     },
     {
         nombre:"Escorpion",
@@ -76,9 +74,7 @@ let objetosAnimales=[
         peso_promedio:"Hasta 30 gr",
         número_de_patas:"",
         color_predominante:"",
-        alimentación: {
-            
-        }
+        alimentación: "Animales más pequeños que él, principalmente insectos, como por ejemplo grillos, langostas o cucarachas"
     },
     {
         nombre:"Burro",
