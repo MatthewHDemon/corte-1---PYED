@@ -72,8 +72,8 @@ let objetosAnimales=[
         nombre:"Escorpion",
         imagen:"https://t1.ev.ltmcdn.com/es/posts/1/0/4/tipos_de_escorpiones_3401_orig.jpg",
         peso_promedio:"Hasta 30 gr",
-        número_de_patas:"",
-        color_predominante:"",
+        número_de_patas:"8",
+        color_predominante:"negro",
         alimentación: "Animales más pequeños que él, principalmente insectos, como por ejemplo grillos, langostas o cucarachas"
     },
     {
